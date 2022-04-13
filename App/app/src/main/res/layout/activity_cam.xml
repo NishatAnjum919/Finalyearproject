@@ -10,11 +10,38 @@
     <WebView
 
         android:id="@+id/webview"
-        android:layout_width="409dp"
-        android:layout_height="729dp"
+        android:layout_width="428dp"
+        android:layout_height="278dp"
+        android:layout_centerInParent="true"
         tools:layout_editor_absoluteX="1dp"
         tools:layout_editor_absoluteY="1dp" />
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/webview"
+        android:layout_marginTop="105dp"
+        android:layout_centerHorizontal="true"
+        android:text="Save" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/webview"
+        android:layout_marginBottom="165dp"
+        android:layout_centerHorizontal="true"
+        android:text="TextView" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/webview"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-3dp"
+        tools:srcCompat="@tools:sample/avatars" />
 
 
 </RelativeLayout>

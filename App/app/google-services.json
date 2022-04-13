@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911105638766",
+    "project_id": "farmhand-342c2",
+    "storage_bucket": "farmhand-342c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911105638766:android:f5a3d460ff0e6f5fce817f",
+        "android_client_info": {
+          "package_name": "com.example.farmhand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911105638766-ru7pp1o1bgv997psdlg3vbvv19bjfjdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC50598XziMGWzwNGnQxz3o0Z6cmUiqsfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911105638766-ru7pp1o1bgv997psdlg3vbvv19bjfjdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
